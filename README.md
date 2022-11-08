@@ -1,5 +1,5 @@
 # Worksheet 1
-Y9 School Assignment - Multiple Python pieces of code we had to make/rewrite correctly.
+Y9 School Assignment - Multiple Python pieces of code we had to make/rewrite correctly. Finished challenges on <b> 8/11/2022 </b>.
 
 ## Question 1 
 In Question 1 we had to rewrite the existing code (which was wrong), and make it work.
@@ -44,4 +44,4 @@ We had to write a program for the following:
 
 ![image](https://user-images.githubusercontent.com/106308047/200481026-cc47f7d1-f69e-45d5-a98b-c27ca8eb3366.png)
 
-<b> Finished <u> 8/11/2022 </u> </b>
+
